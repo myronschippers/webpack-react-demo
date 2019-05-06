@@ -165,14 +165,14 @@
 
 In the project directory, you can run:
 
-`npm start`
+#### `npm start`
 
 Runs the app in the development mode.<br>
 Will automatically open in your browser on [http://localhost:3000](http://localhost:3000).
 
 The page will reload if you make edits.
 
-`npm run build`
+#### `npm run build`
 
 Builds the app for production to the `build` folder.<br>
 Optimizes scripts for the production bundle.
