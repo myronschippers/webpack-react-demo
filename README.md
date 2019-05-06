@@ -28,11 +28,11 @@
 1. Create a `webpack.config.js` configuration file at the root of your project repository.
 1. Add an export of a configuarion object to the `webpack.config.js` for setting the webpack configuration settings.
 
-```
-module.exports = {
+    ```
+    module.exports = {
 
-};
-```
+    };
+    ```
 
 1. Add configuration properties for the `entry` and `output` settings.
 
